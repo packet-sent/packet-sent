@@ -1,7 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> 
-About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm currently working as a Software Developer working for [SpeedProxies](https://speedproxies.net/)
 - 💻 I daily use  **.php**, **.js**, **.vue**
 - 💬 Talk to me about networking, crypto & startups
