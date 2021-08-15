@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm currently working as a Software Developer working for [SpeedProxies](https://speedproxies.net/)
-- 💻 I daily use  **.php**, **.js**, **.vue**
+- 💻 I mostly use **.php**, **.js**, **.vue** 
 - 💬 Talk to me about networking, crypto & startups
 
 <br>
