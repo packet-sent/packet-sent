@@ -12,6 +12,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 
 ### Technologies:
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=Cloudflare)
