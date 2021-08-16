@@ -17,7 +17,7 @@
 ### Technologies:
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=Cloudflare)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&logoColor=FF9900)
-![Heroku](https://img.shields.io/badge/heroku-000?&logo=Heroku&logoColor=430098)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku&logoColor=430098)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
