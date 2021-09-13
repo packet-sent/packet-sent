@@ -1,8 +1,8 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm currently working as a Software Developer working for [SpeedProxies](https://speedproxies.net/)
-- 💻 I mostly use **.php**, **.js**, **.vue** 
+- 🏦 I'm currently working as a Software Developer at [SpeedProxies](https://speedproxies.net/)
+- 💻 Currently working on load balancing/proxing applications in Go
 - 💬 Talk to me about networking, crypto & startups
 
 <br>
@@ -10,6 +10,7 @@
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Go](https://img.shields.io/badge/-Go-000?&logo=GO)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
