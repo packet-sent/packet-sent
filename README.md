@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm currently working as a Software Developer at [SpeedProxies](https://speedproxies.net/)
-- 💻 Currently working on load balancing/proxing applications in Go
+- 💻 Currently working on a REST API recode from PHP to Go.
 - 💬 Talk to me about networking, crypto & startups
 
 <br>
