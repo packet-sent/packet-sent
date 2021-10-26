@@ -8,10 +8,10 @@
 <br>
 
 ### Languages:
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Go](https://img.shields.io/badge/-Go-000?&logo=GO)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Go](https://img.shields.io/badge/-Go-000?&logo=GO)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 
