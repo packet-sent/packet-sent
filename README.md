@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm currently working as a Software Developer at [SpeedProxies](https://speedproxies.net/)
+- 🏦 I'm currently working as a Software Developer at [SpeedProxies](https://speedproxies.net/) & [Infinity Supply](https://www.infinity-supply.eu/)
 - 💻 Currently working on a client dashboard & bandwidth sharing app that rewards users with money.
 - 💬 Talk to me about networking,crypto & gaming.
 
