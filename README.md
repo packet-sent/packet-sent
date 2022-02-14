@@ -3,6 +3,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm currently working as a Software Developer at [SpeedProxies](https://speedproxies.net/) & [Infinity Supply](https://www.infinity-supply.eu/)
 - 💻 Currently working on a client dashboard & bandwidth sharing app that rewards users with money.
+- 🌐 I operate [AS208908](https://bgpview.io/asn/208908) for [SpeedProxies](https://speedproxies.net/)
 - 💬 Talk to me about networking, crypto & gaming.
 
 <br>
