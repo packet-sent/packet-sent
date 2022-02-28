@@ -28,6 +28,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
