@@ -35,4 +35,4 @@
 
 <br>
 
-![packet-sent](https://komarev.com/ghpvc/?username=packet-sent&label=Profile%20views&color=47e3ff&style=flat) [![Discord](https://img.shields.io/discord/759108262229835777.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/FWVCCBPPmu)
+![packet-sent](https://komarev.com/ghpvc/?username=packet-sent&label=Profile%20views&color=47e3ff&style=flat) [![Discord](https://img.shields.io/discord/759108262229835777.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/V3J488k8MX)
