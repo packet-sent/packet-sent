@@ -1,8 +1,8 @@
 # Hi there! 
 
 ### About Me:
-- 🏦 I'm currently working as a Software Developer at [SpeedProxies](https://speedproxies.net/) & [Infinity Supply](https://www.infinity-supply.eu/)
-- 💻 Currently working on a client dashboard & bandwidth sharing app that rewards users with money.
+- 🏦 I'm currently working as a Software Developer at [SpeedProxies](https://speedproxies.net/) & [59A](https://59a.co.uk/)
+- 💻 Currently working on releasing [SpeedShare](https://speedshare.app/)
 - 🌐 I operate [AS208908](https://bgpview.io/asn/208908) for [SpeedProxies](https://speedproxies.net/)
 - 💬 Interested in computer networks, crypto & gaming.
 
@@ -22,10 +22,10 @@
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
 
 ### DB Technologies*:
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 ### Monitoring Tools/Technologies*:
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
