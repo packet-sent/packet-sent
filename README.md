@@ -1,7 +1,7 @@
 # Hi there! 
 
 ### About Me:
-- 🏦 I'm currently working as a Software Developer at [SpeedProxies](https://speedproxies.net/) & [Webscrape AI](https://webscrape.ai/)
+- 🏦 Currently working on [Webscrape AI](https://webscrape.ai/)
 - 💻 Currently working on releasing on many things...
 - 🌐 I operate [AS208908](https://bgpview.io/asn/208908) for [SpeedProxies](https://speedproxies.net/)
 - 💬 Interested in computer networking & LLMs. 
