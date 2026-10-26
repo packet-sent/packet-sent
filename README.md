@@ -8,18 +8,14 @@
 
 I build things that sit close to the wire: proxy networks, fleets of browsers in microVMs, and the Go services that hold them together. These days that includes a lot of LLM tooling. Based in London.
 
-### 🛰️ Now
+### 🛰️ What I'm building
 
-**[Webscrape AI](https://webscrape.ai/)** · founder & engineer · since 2025
+**[Webscrape AI](https://webscrape.ai/)**: web extraction and browser automation where every Chromium session gets its own Firecracker microVM. A single host runs 100+ of them, each booting in under 500 ms, and requests come back in under 700 ms. I build it solo, with Claude Code, custom MCP servers and CI-gated AI review doing a lot of the lifting.
 
-AI-powered web extraction and browser automation. Every Chromium session runs in its own Firecracker microVM (100+ per host, sub-500 ms boot), responses come back in under 700 ms on independent BrowserArena benchmarks, and it reached 100+ customers within four months of launch. Built solo, with Claude Code, custom MCP servers and CI-gated AI review doing a lot of the lifting.
+### 📦 Things I've built
 
-### 📦 Before
-
-- **SpeedProxies** · founder & engineer · 2020–2025<br>
-  Residential, mobile and datacentre proxies for 10,000+ customers, with 400+ TB delivered over my own network, [AS208908](https://bgp.tools/as/208908).
-- **59A** · software engineer · 2021–2025<br>
-  Rebuilt a Python/Selenium Google Maps collector in Go with concurrent browser workers, cutting UK-wide runs from 4–5 hours to 30 minutes.
+- **[SpeedProxies](https://speedproxies.net/)**: residential, mobile and datacentre proxies that pushed 400+ TB over my own network, [AS208908](https://bgp.tools/as/208908), with Go load balancers rotating IPs and picking upstreams by geolocation and per-customer policy.
+- **A Go rewrite of a Python/Selenium scraper**: concurrent browser workers and a worker pool took UK-wide Google Maps runs from 4–5 hours down to 30 minutes.
 
 ### 🧰 Stack
 
